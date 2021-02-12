@@ -36,3 +36,5 @@ course
 int main()
 printf("hello world")
 return 0
+### inserting links
+[markdown sheet](https://www.markdownguide.org//cheat-sheet/)
