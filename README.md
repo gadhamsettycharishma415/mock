@@ -23,8 +23,8 @@ course
 4
 ### unorderd list
 -ece
--ecea
--eceb
+-ecea.
+-eceb.
 -eee
 -eeea
 -eeeb
