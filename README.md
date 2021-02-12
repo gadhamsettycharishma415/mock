@@ -28,3 +28,6 @@ course
 -eee
 -eeea
 -eeeb
+###code
+`python`
+`print("hello")`
