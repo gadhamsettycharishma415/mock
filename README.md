@@ -29,5 +29,5 @@ course
 -eeea
 -eeeb
 ###code
-`python`
-`print("hello")`
+```python```
+```print("hello")```
